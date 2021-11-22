@@ -14,4 +14,5 @@
 .vscode/
 .vs/
 .git/
-
+x64/
+[Dd]ebug
