@@ -1,5 +1,17 @@
+*
+!.gitignore
+!*.cpp
+!*.hpp
+!*.sh
+!*.pdf
+!*/
 
 *.a
 *.out
 *.o 
-*.so 
+*.so
+
+.vscode/
+.vs/
+.git/
+
