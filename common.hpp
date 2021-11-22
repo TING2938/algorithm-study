@@ -15,6 +15,7 @@
 #include <cstdlib>
 
 using namespace std;
-
+// test
+//
 
 #endif // !__COMMON_LEARN_HEADER__
